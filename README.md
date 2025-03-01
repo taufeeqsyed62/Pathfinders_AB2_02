@@ -1,3 +1,8 @@
+# PS - 02 
+# Team - PathFinders
+
+---
+---
 # 🚀 Orbit AI
 
 Welcome to **Orbit AI**, an intelligent platform that transforms your ideas into fully functional websites with just a simple prompt. Built with cutting-edge AI and modern web technologies, this tool empowers developers, designers, and creators to build websites faster and smarter.
